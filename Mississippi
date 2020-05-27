@@ -6,3 +6,5 @@ for char in Please_enter_a_string:
     frequency_table[char] = frequency_table.get(char, 0) + 1
 
 print ("Character frequency table for '{}' is :\n {}".format(Please_enter_a_string, str(frequency_table)))
+
+![image](https://user-images.githubusercontent.com/65340157/83010842-83e93b80-a036-11ea-974b-1b50cfed5301.png
